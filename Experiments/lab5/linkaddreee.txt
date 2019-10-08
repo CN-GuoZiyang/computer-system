@@ -1,0 +1,175 @@
+env	0xffb8d8e8	4290304232
+env[0]	*env	0xffb8f16e	4290310510
+XDG_SEAT=seat0
+env[1]	*env	0xffb8f17d	4290310525
+XDG_SESSION_ID=4
+env[2]	*env	0xffb8f18e	4290310542
+LC_IDENTIFICATION=zh_CN.UTF-8
+env[3]	*env	0xffb8f1ac	4290310572
+WINDOWPATH=2
+env[4]	*env	0xffb8f1b9	4290310585
+_=/home/guoziyang/Desktop/outside/Desktop/lab5/./LinkAddr
+env[5]	*env	0xffb8f1f3	4290310643
+DISPLAY=:0
+env[6]	*env	0xffb8f1fe	4290310654
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=6655975be02a4fd07ed702e55c0160b9
+env[7]	*env	0xffb8f256	4290310742
+COLORTERM=truecolor
+env[8]	*env	0xffb8f26a	4290310762
+GNOME_TERMINAL_SERVICE=:1.85
+env[9]	*env	0xffb8f287	4290310791
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+env[10]	*env	0xffb8f2b3	4290310835
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+env[11]	*env	0xffb8f2e6	4290310886
+LOGNAME=guoziyang
+env[12]	*env	0xffb8f2f8	4290310904
+TEXTDOMAIN=im-config
+env[13]	*env	0xffb8f30d	4290310925
+LC_TIME=zh_CN.UTF-8
+env[14]	*env	0xffb8f321	4290310945
+SHELL=/bin/zsh
+env[15]	*env	0xffb8f330	4290310960
+PAPERSIZE=a4
+env[16]	*env	0xffb8f33d	4290310973
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+env[17]	*env	0xffb8f3a5	4290311077
+LC_NUMERIC=zh_CN.UTF-8
+env[18]	*env	0xffb8f3bc	4290311100
+LC_PAPER=zh_CN.UTF-8
+env[19]	*env	0xffb8f3d1	4290311121
+IM_CONFIG_PHASE=2
+env[20]	*env	0xffb8f3e3	4290311139
+TEXTDOMAINDIR=/usr/share/locale/
+env[21]	*env	0xffb8f404	4290311172
+CLUTTER_IM_MODULE=xim
+env[22]	*env	0xffb8f41a	4290311194
+QT4_IM_MODULE=xim
+env[23]	*env	0xffb8f42c	4290311212
+INVOCATION_ID=d51f7ca36c9f43f8ab1a34ae4b8d1227
+env[24]	*env	0xffb8f45b	4290311259
+XDG_MENU_PREFIX=gnome-
+env[25]	*env	0xffb8f472	4290311282
+GNOME_SHELL_SESSION_MODE=ubuntu
+env[26]	*env	0xffb8f492	4290311314
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+env[27]	*env	0xffb8f4bb	4290311355
+XDG_SESSION_DESKTOP=ubuntu
+env[28]	*env	0xffb8f4d6	4290311382
+GDMSESSION=ubuntu
+env[29]	*env	0xffb8f4e8	4290311400
+QT_IM_MODULE=ibus
+env[30]	*env	0xffb8f4fa	4290311418
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+env[31]	*env	0xffb8f523	4290311459
+LC_MEASUREMENT=zh_CN.UTF-8
+env[32]	*env	0xffb8f53e	4290311486
+LC_ADDRESS=zh_CN.UTF-8
+env[33]	*env	0xffb8f555	4290311509
+XMODIFIERS=@im=ibus
+env[34]	*env	0xffb8f569	4290311529
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+env[35]	*env	0xffb8f596	4290311574
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+env[36]	*env	0xffb8f5cc	4290311628
+USERNAME=guoziyang
+env[37]	*env	0xffb8f5df	4290311647
+DESKTOP_SESSION=ubuntu
+env[38]	*env	0xffb8f5f6	4290311670
+XDG_RUNTIME_DIR=/run/user/1000
+env[39]	*env	0xffb8f615	4290311701
+GTK_IM_MODULE=ibus
+env[40]	*env	0xffb8f628	4290311720
+GTK_MODULES=gail:atk-bridge
+env[41]	*env	0xffb8f644	4290311748
+USER=guoziyang
+env[42]	*env	0xffb8f653	4290311763
+PWD=/home/guoziyang/Desktop/outside/Desktop/lab5
+env[43]	*env	0xffb8f684	4290311812
+VTE_VERSION=5202
+env[44]	*env	0xffb8f695	4290311829
+LC_MONETARY=zh_CN.UTF-8
+env[45]	*env	0xffb8f6ad	4290311853
+HOME=/home/guoziyang
+env[46]	*env	0xffb8f6c2	4290311874
+QT_ACCESSIBILITY=1
+env[47]	*env	0xffb8f6d5	4290311893
+SSH_AGENT_PID=1417
+env[48]	*env	0xffb8f6e8	4290311912
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+env[49]	*env	0xffb8f73b	4290311995
+LANGUAGE=zh_CN:en_US:en
+env[50]	*env	0xffb8f753	4290312019
+MANAGERPID=1309
+env[51]	*env	0xffb8f763	4290312035
+LANG=zh_CN.UTF-8
+env[52]	*env	0xffb8f774	4290312052
+LC_NAME=zh_CN.UTF-8
+env[53]	*env	0xffb8f788	4290312072
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/00b6b38f_f475_4f67_92a5_23cb893b481b
+env[54]	*env	0xffb8f7de	4290312158
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+env[55]	*env	0xffb8f812	4290312210
+SHLVL=1
+env[56]	*env	0xffb8f81a	4290312218
+JOURNAL_STREAM=9:42431
+env[57]	*env	0xffb8f831	4290312241
+DBUS_STARTER_BUS_TYPE=session
+env[58]	*env	0xffb8f84f	4290312271
+XDG_VTNR=2
+env[59]	*env	0xffb8f85a	4290312282
+TERM=xterm-256color
+env[60]	*env	0xffb8f86e	4290312302
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=6655975be02a4fd07ed702e55c0160b9
+env[61]	*env	0xffb8f8ca	4290312394
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+env[62]	*env	0xffb8f8eb	4290312427
+XDG_SESSION_TYPE=x11
+env[63]	*env	0xffb8f900	4290312448
+SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1839,unix/ubuntu:/tmp/.ICE-unix/1839
+env[64]	*env	0xffb8f952	4290312530
+LC_TELEPHONE=zh_CN.UTF-8
+env[65]	*env	0xffb8f96b	4290312555
+OLDPWD=/home/guoziyang/Desktop/outside/Desktop
+env[66]	*env	0xffb8f99a	4290312602
+ZSH=/home/guoziyang/.oh-my-zsh
+env[67]	*env	0xffb8f9b9	4290312633
+PAGER=less
+env[68]	*env	0xffb8f9c4	4290312644
+LESS=-R
+env[69]	*env	0xffb8f9cc	4290312652
+LC_CTYPE=zh_CN.UTF-8
+env[70]	*env	0xffb8f9e1	4290312673
+LSCOLORS=Gxfxcxdxbxegedabagacad
+env[71]	*env	0xffb8fa01	4290312705
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+big array	0x96613040	2522951744
+huge array	0x56613040	1449209920
+local	0xffb8d7ec	4290303980
+global	0x56613024	1449209892
+argc	0xffb8d840	4290304064
+argv	0xffb8d8d4	4290304212
+argv[0]         ffb8f14b
+argv[1]         ffb8f156
+argv[2]         ffb8f159
+argv[3]         ffb8f164
+argv[0]	0xffb8f14b	4290310475
+./LinkAddr
+argv[1]	0xffb8f156	4290310486
+-u
+argv[2]	0xffb8f159	4290310489
+1170300520
+argv[3]	0xffb8f164	4290310500
+郭子阳
+p1	0xe7dd9010	3890057232
+p2	0x97b26570	2545050992
+p3	0xe7db8010	3889922064
+p4	0xa7db7010	2816176144
+p5	(nil)	0
+show_pointer	0x566101bd	1449198013
+useless	0x566101ef	1449198063
+main	0x56610203	1449198083
+exit	0xf7e0a3d0	4158694352
+printf	0xf7e2b2d0	4158829264
+malloc	0xf7e54c30	4158999600
+free	0xf7e55250	4159001168

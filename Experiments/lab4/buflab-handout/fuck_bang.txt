@@ -1,0 +1,11 @@
+
+fuck_bang.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	c7 05 60 e1 04 08 31 	movl   $0x56f0ae31,0x804e160
+   7:	ae f0 56 
+   a:	68 39 8c 04 08       	push   $0x8048c39
+   f:	c3                   	ret    

@@ -1,0 +1,10 @@
+
+fuck_boom.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 31 ae f0 56       	mov    $0x56f0ae31,%eax
+   5:	68 a7 8c 04 08       	push   $0x8048ca7
+   a:	c3                   	ret    

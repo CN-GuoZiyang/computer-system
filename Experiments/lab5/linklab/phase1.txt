@@ -1,0 +1,29 @@
+
+phase1.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <do_phase>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	53                   	push   %ebx
+   4:	83 ec 04             	sub    $0x4,%esp
+   7:	e8 fc ff ff ff       	call   8 <do_phase+0x8>
+   c:	05 01 00 00 00       	add    $0x1,%eax
+  11:	8d 90 1f 00 00 00    	lea    0x1f(%eax),%edx
+  17:	83 ec 0c             	sub    $0xc,%esp
+  1a:	52                   	push   %edx
+  1b:	89 c3                	mov    %eax,%ebx
+  1d:	e8 fc ff ff ff       	call   1e <do_phase+0x1e>
+  22:	83 c4 10             	add    $0x10,%esp
+  25:	90                   	nop
+  26:	8b 5d fc             	mov    -0x4(%ebp),%ebx
+  29:	c9                   	leave  
+  2a:	c3                   	ret    
+
+Disassembly of section .text.__x86.get_pc_thunk.ax:
+
+00000000 <__x86.get_pc_thunk.ax>:
+   0:	8b 04 24             	mov    (%esp),%eax
+   3:	c3                   	ret    

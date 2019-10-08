@@ -1,0 +1,23 @@
+{
+    "title": "程序人生-Hello’s P2P",
+    "description": "HITCS-2018大作业",
+    "author": "CN-GuoZiyang",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "我的博客": "https://guoziyang.top"
+        }
+    },
+    "plugins": [
+        "highlight",
+        "github",
+        "katex",
+        "splitter",
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/CN-GuoZiyang"
+        }
+    }
+}
